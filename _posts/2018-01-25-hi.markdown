@@ -1,5 +1,7 @@
 ---
 title: "hello"
+description: "AIGA's design blog"
 ---
 helloo
 ---
+[AIGA Eye on Design](http://eyeondesign.aiga.org)
