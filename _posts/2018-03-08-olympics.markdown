@@ -5,5 +5,20 @@ description: "A New Typeface"
 
 A Typeface Good for the Gold: One Studio’s Homage to the 2018 Winter Olympics
 
+### This is a third-level header
+<h3>Corresponds to the number of # signs</h3>
 
-https://eyeondesign.aiga.org/a-typeface-good-for-the-gold-one-studios-homage-to-the-2018-winter-olympics/
+- This will become a list item
+- List item
+- List item
+- List
+
+1. Here's some directions
+2. Go left
+
+
+<a href="https://eyeondesign.aiga.org/a-typeface-good-for-the-gold-one-studios-homage-to-the-2018-winter-olympics/">original post</a>
+
+[original post](https://eyeondesign.aiga.org/a-typeface-good-for-the-gold-one-studios-homage-to-the-2018-winter-olympics/)
+  
+[text of link](destination of link)
