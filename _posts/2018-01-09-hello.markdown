@@ -4,4 +4,14 @@ description: "This text shows up in search engine previews"
 ---
 
 This is a post. Rename the file and replace it with a real post.
-what.
+
+Paragraph.
+Paragraph.
+
+Paragraph.
+
+Words.
+
+Another word.
+
+Word.
