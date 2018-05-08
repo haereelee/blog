@@ -60,12 +60,15 @@ h1{
 }
 
 a{
-	color: #F0E0AF;
+	color: #68A5A0;
 	text-decoration: none;
 	font-size: 50px;
 }
 a:hover{
 	color: #F0E0AF;
+}
+p{
+	color: #B9D9CE
 }
 
 h2{
