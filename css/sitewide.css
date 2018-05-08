@@ -27,8 +27,6 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 
 body {
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 2em;
-	line-height: 1em;
 	background-color: #E6F0E8;
 	background-image: url("../img/mink-mingle.jpg");
 	background-size: 100%;
