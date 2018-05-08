@@ -1,17 +1,9 @@
 ---
-title: "Hello world"
-description: "This text shows up in search engine previews"
+title: "Ikea calls out Balenciaga’s $2,145-take on its Frakta bag"
+description: "Ikea throws more than a little shade to the Arena tote in new ad"
 ---
 
-This is a post. Rename the file and replace it with a real post.
+This is the kind of marketing I like to see, so very effective and full of shade.
 
-Paragraph.
-Paragraph.
 
-Paragraph.
-
-Words.
-
-Another word.
-
-Word.
+<a href="https://www.curbed.com/2017/4/26/15437408/ikea-frakta-bag-balenciaga-arena-tote-copy-ad">Ikea calls out Balenciaga’s $2,145-take on its Frakta bag</a>
