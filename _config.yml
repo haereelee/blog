@@ -1,7 +1,7 @@
 
 # Site settings
-title: Your awesome title
-description: A starter site
+title: (non)graphic
+description: A starter blog on design
 baseurl: "/blog" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
 url: "https://haereelee.github.io" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
 
