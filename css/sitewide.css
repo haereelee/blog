@@ -27,10 +27,12 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 16px;
-	line-height: 1.5em;
-	color: #222;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 2em;
+	line-height: 1em;
+	background-color: #E6F0E8;
+	background-image: url("../mink-mingle.jpg");
+	background-size: 100%;
 }
 
 /*	Generally, you will only want one container element in
@@ -39,13 +41,34 @@ body {
 	something wrong. 	
 */
 .container {
-	margin-top: 1em;
+	margin-top: 2em;
 	margin-right: auto;
-	margin-bottom: 1em;
+	margin-bottom: 2em;
 	margin-left: auto;
 	width: 90%;
 	max-width: 1200px;
-	padding: 2em;
-	border: 5px solid #eee;
+	padding: 3em;
+	background-image: linear-gradient(to bottom right, rgba(230, 240, 232, 0.7), rgba(104, 165, 160, 0.7));
 }
+
+ul{
+	list-style-type: none;
+	text-align: left;
+}
+a{
+	color: #F0E0AF;
+	text-decoration: none;
+	font-size: 50px;
+}
+a:hover{
+	color: #F0E0AF;
+}
+
+h3{
+	color: #E5927B;
+	text-align: center;
+}
+
+
+
 
