@@ -1,24 +1,14 @@
 ---
-title: "A Typeface Good for the Gold: One Studio’s Homage to the 2018 Winter Olympics"
-description: "A New Typeface"
+title: "A Typeface Good for the Gold"
+description: "One Studio’s Homage to the 2018 Winter Olympics"
 ---
 
-A Typeface Good for the Gold: One Studio’s Homage to the 2018 Winter Olympics
-
-### This is a third-level header
-<h3>Corresponds to the number of # signs</h3>
-
-- This will become a list item
-- List item
-- List item
-- List
-
-1. Here's some directions
-2. Go left
+The typeface for ESPN for the Winter Olympics at Pyeongchang, South Korea.
+Meant to mimic the half loops and straight lines from skiing and skateboarding.
+The typeface reminds me of vintage nouveau prints and I think it is well designed!
 
 
-<a href="https://eyeondesign.aiga.org/a-typeface-good-for-the-gold-one-studios-homage-to-the-2018-winter-olympics/">original post</a>
+<a href="https://eyeondesign.aiga.org/a-typeface-good-for-the-gold-one-studios-homage-to-the-2018-winter-olympics/">A Typeface Good for the Gold: One Studio’s Homage to the 2018 Winter Olympics
+</a>
 
-[original post](https://eyeondesign.aiga.org/a-typeface-good-for-the-gold-one-studios-homage-to-the-2018-winter-olympics/)
   
-[text of link](destination of link)
