@@ -52,21 +52,21 @@ h1{
 	font-family: 'Lobster', cursive;
 	font-size: 3em;
 	line-height: 1em;
-	color: #68A5A0;
+	color: #9DDAA5;
 	margin: 1em;
 	text-align: center;
 }
 
 a{
-	color: #588D87;
+	color: #;
 	text-decoration: none;
 	font-size: 50px;
 }
 a:hover{
-	color: #68A5A0;
+	color: #F0E0AF;
 }
 p{
-	color: #F0E0AF;
+	color: #68A5A0;
 }
 
 h2{
