@@ -29,7 +29,7 @@ body {
 	font-family: 'Josefin Sans', sans-serif;
 	background-color: #E6F0E8;
 	background-image: url("../img/mink-mingle.jpg");
-	background-size: 100%;
+	background-size: 200%;
 }
 
 /*	Generally, you will only want one container element in
@@ -58,15 +58,15 @@ h1{
 }
 
 a{
-	color: #68A5A0;
+	color: #F0E0AF;
 	text-decoration: none;
 	font-size: 50px;
 }
 a:hover{
-	color: #F0E0AF;
+	color: #68A5A0;
 }
 p{
-	color: #B9D9CE
+	color: #F0E0AF;
 }
 
 h2{
