@@ -50,7 +50,7 @@ body {
 
 h1{
 	font-family: 'Lobster', cursive;
-	font-size: 3em;
+	font-size: 5em;
 	line-height: 1em;
 	color: #F2A071;
 	margin: 1em;
@@ -58,7 +58,7 @@ h1{
 }
 
 a{
-	color: #A7B3BF;
+	color: #5483AD;
 	text-decoration: none;
 	font-size: 50px;
 }
