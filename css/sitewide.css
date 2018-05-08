@@ -51,6 +51,15 @@ body {
 	background-image: linear-gradient(to bottom right, rgba(230, 240, 232, 0.7), rgba(104, 165, 160, 0.7));
 }
 
+h1{
+	font-family: 'Lobster', cursive;
+	font-size: 3em;
+	line-height: 1em;
+	color: #68A5A0;
+	margin: 1em;
+	text-align: center;
+}
+
 a{
 	color: #F0E0AF;
 	text-decoration: none;
